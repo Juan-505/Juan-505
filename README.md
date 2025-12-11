@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey 👋, I'm Minh!  <img src="cat.webp" width="50"/>
+  
+<a href="https://www.facebook.com/le.minh.916988" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Juan-505" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 
-<!--
-**Juan-505/Juan-505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here!  
+I am a passionate developer, focusing on Backend developer. I love building interactive experiences and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+![Metrics](github-metrics.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🌐 Web Development
+
+Experienced in:
+- String boot
+- Backend Development
+- Server Management
+
+Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
