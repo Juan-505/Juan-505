@@ -12,7 +12,7 @@ I am a passionate developer, focusing on Backend developer. I love building inte
 
 ![Metrics](github-metrics.svg)
 
-  ## 🌐 Web Development
+  ## 🌐 Backend Developer
 
 Experienced in:
 - String boot
